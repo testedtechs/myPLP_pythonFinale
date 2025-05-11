@@ -82,5 +82,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Would you like me to save this as an actual `README.md` file and share the download link?
 
